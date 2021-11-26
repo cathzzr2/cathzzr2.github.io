@@ -1,4 +1,4 @@
-## Resume
+## Catherine (Zhiruo) Zhao
 
 ### Contact
 
