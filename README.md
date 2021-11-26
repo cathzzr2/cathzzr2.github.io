@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Resume
 
-You can use the [editor on GitHub](https://github.com/cathzzr2/cathzzr2.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: cathzzr2@gmail.com
+Phone: (217)991-2669
 
-### Markdown
+### Personal Info
+Catherine (Zhiruo) Zhao
+University of Illinois at Urbana-Champaign (May 2025)
+Division of General Studies
+Blog: https://cathzzr2.github.io
+Github: https://github.com/cathzzr2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
 
-```markdown
-Syntax highlighted code block
+#### Computer Science Research, Pittsburgh, PA (May 2019 - Oct 2019)
+•	worked on the research project 'Information Dissemination and Aggregation for the Next Decade' under Dr. Bernhard Haeupler at Carnegie Mellon University
+•	conducted intensive literature review, and programmed and tested models
+•	published a paper about Natural Language Processing by the IEEE Computer Society's Conference Publishing Services
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cathzzr2/cathzzr2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
