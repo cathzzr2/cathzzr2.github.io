@@ -4,7 +4,7 @@
 
 Email: cathzzr2@gmail.com
 
-Phone: (217)991-2669
+Phone: (217) 991-2669
 
 ### Personal Info
 
@@ -24,6 +24,8 @@ Github: https://github.com/cathzzr2
 •	worked on the research project 'Information Dissemination and Aggregation for the Next Decade' under Dr. Bernhard Haeupler at Carnegie Mellon University
 
 •	conducted intensive literature review, and programmed and tested models
+
+#### Computer Vision 
 
 ### Publication
 
